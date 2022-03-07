@@ -41,7 +41,7 @@ public class BubbleSortProgram {
          * 4.Iterating numberOfInputs and scanning the string entered by user everytime
          * 5.Calling bubbleSort method
          */
-        
+
         /**
          * 1.Taking input from user using scanner class
          */
